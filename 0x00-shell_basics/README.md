@@ -1,1 +1,1 @@
-script tha delete betty from /tmp/my_first_directory
+Delete the directory my_first_directory
